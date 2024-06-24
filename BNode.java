@@ -1,6 +1,5 @@
 //This class represents the nodes of the binary search tree. Each node will store an object of the class Pel and it will have references to its left child, its right child, and its parent.
 //Author - Marc Crasto
-//Student no. 251144211
 public class BNode {
 	//private variable to store the pel object in the node.
 	private Pel value;
